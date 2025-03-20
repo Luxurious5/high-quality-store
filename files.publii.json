@@ -100,24 +100,94 @@
         "md5": false
     },
     {
+        "path": "authors/jhon-mason",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/jhon-mason/index.html",
+        "type": "file",
+        "md5": "74a20f2109b70f4d65a7e0759c691a26"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "cb0c2e2b1123cf3e81a15fc0dfd21392"
+        "md5": "7a19970927ec50ae841ded112a7113c8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f353cb081eb4b6c456368d0903e5754e"
+        "md5": "94496725c5a430a13a220d4d285808e9"
+    },
+    {
+        "path": "find-the-best-furniture-store-near-me-for-quality-and-affordable-choices",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/find-the-best-furniture-store-near-me-for-quality-and-affordable-choices/index.html",
+        "type": "file",
+        "md5": "748a58b5f8acee64d837c7477438c876"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "35fc2cb2c95e74866a3066830c089926"
+        "md5": "059da2e8cf059d21a5524a5fb80b2926"
     },
     {
         "path": "media",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/893",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/893/1-1-600x600.jpg",
+        "type": "file",
+        "md5": "fbd729f92d93e31b9a52f7c075e9893c"
+    },
+    {
+        "path": "media/posts/893/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/893/responsive/1-1-600x600-2xl.jpg",
+        "type": "file",
+        "md5": "b8d513824fdd881a8514d83add350bca"
+    },
+    {
+        "path": "/media/posts/893/responsive/1-1-600x600-lg.jpg",
+        "type": "file",
+        "md5": "b8d513824fdd881a8514d83add350bca"
+    },
+    {
+        "path": "/media/posts/893/responsive/1-1-600x600-md.jpg",
+        "type": "file",
+        "md5": "b8d513824fdd881a8514d83add350bca"
+    },
+    {
+        "path": "/media/posts/893/responsive/1-1-600x600-sm.jpg",
+        "type": "file",
+        "md5": "b8d513824fdd881a8514d83add350bca"
+    },
+    {
+        "path": "/media/posts/893/responsive/1-1-600x600-xl.jpg",
+        "type": "file",
+        "md5": "b8d513824fdd881a8514d83add350bca"
+    },
+    {
+        "path": "/media/posts/893/responsive/1-1-600x600-xs.jpg",
+        "type": "file",
+        "md5": "b8d513824fdd881a8514d83add350bca"
     },
     {
         "path": "media/website",
@@ -207,7 +277,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "38ece4dde8cc7fdd6b01ae7cca999a4e"
+        "md5": "9783c0514247e7b2436c6d586af2fe27"
     },
     {
         "path": "sitemap.xsl",
