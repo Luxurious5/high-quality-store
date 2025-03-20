@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "High Quality Furniture",
+    "description": "",
+    "home_page_url": "https://elegant-sofa.vercel.app",
+    "feed_url": "https://elegant-sofa.vercel.app/feed.json",
+    "user_comment": "",
+    "icon": "https://elegant-sofa.vercel.app/media/website/furniture-logo.png",
+    "author": {
+        "name": "Basama Fouady"
+    },
+    "items": [
+    ]
+}
